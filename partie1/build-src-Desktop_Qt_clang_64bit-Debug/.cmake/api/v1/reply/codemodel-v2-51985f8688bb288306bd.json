@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Bacteria_Simulator_SSV_2020_STEP1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "circularBodyTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-circularBodyTest-Debug-8ab0b295eadf92f8d3b6.json",
+					"name" : "circularBodyTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vec2dTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vec2dTest-Debug-367efd40ad0f8fd3a7f4.json",
+					"name" : "vec2dTest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mathieureibel/Documents/Programmation/Projet SV/partie1/build-src-Desktop_Qt_clang_64bit-Debug",
+		"source" : "/Users/mathieureibel/Documents/Programmation/Projet SV/partie1/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
