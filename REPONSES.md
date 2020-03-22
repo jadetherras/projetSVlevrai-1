@@ -51,5 +51,6 @@ Ainsi, dans le codage du destructeur de la classe PetriDish, nous devons effacer
 
 *************************************************
 ##Q2.5
-
+-La méthode Lab::drawOn permet de dessiner le support avec sa boîte de Pétri caractéristique donc son corps est un appel de fonction de la méthode drawOn de la boîte de Pétri rattaché à ce Laboratoire : PetriDish::drawOn.
+La méthode Lab::update permet de faire évoluer le support avec sa boîte de Pétri caractéristique en fonction tu temps. Ainsi le corps de cette fonction est un appel de fonction de la méthode update de la boîte de Pétri rattaché à ce Laboratoire : PetriDish::update.
 
