@@ -413,32 +413,32 @@ Lab/Nutriment.cpp.s:
 	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/Lab/Nutriment.cpp.s
 .PHONY : Lab/Nutriment.cpp.s
 
-PetriDish.o: PetriDish.cpp.o
+Lab/PetriDish.o: Lab/PetriDish.cpp.o
 
-.PHONY : PetriDish.o
+.PHONY : Lab/PetriDish.o
 
 # target to build an object file
-PetriDish.cpp.o:
-	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/PetriDish.cpp.o
-.PHONY : PetriDish.cpp.o
+Lab/PetriDish.cpp.o:
+	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/Lab/PetriDish.cpp.o
+.PHONY : Lab/PetriDish.cpp.o
 
-PetriDish.i: PetriDish.cpp.i
+Lab/PetriDish.i: Lab/PetriDish.cpp.i
 
-.PHONY : PetriDish.i
+.PHONY : Lab/PetriDish.i
 
 # target to preprocess a source file
-PetriDish.cpp.i:
-	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/PetriDish.cpp.i
-.PHONY : PetriDish.cpp.i
+Lab/PetriDish.cpp.i:
+	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/Lab/PetriDish.cpp.i
+.PHONY : Lab/PetriDish.cpp.i
 
-PetriDish.s: PetriDish.cpp.s
+Lab/PetriDish.s: Lab/PetriDish.cpp.s
 
-.PHONY : PetriDish.s
+.PHONY : Lab/PetriDish.s
 
 # target to generate assembly for a file
-PetriDish.cpp.s:
-	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/PetriDish.cpp.s
-.PHONY : PetriDish.cpp.s
+Lab/PetriDish.cpp.s:
+	$(MAKE) -f CMakeFiles/nutrimentTest.dir/build.make CMakeFiles/nutrimentTest.dir/Lab/PetriDish.cpp.s
+.PHONY : Lab/PetriDish.cpp.s
 
 Random/Random.o: Random/Random.cpp.o
 
@@ -721,9 +721,9 @@ help:
 	@echo "... Lab/Nutriment.o"
 	@echo "... Lab/Nutriment.i"
 	@echo "... Lab/Nutriment.s"
-	@echo "... PetriDish.o"
-	@echo "... PetriDish.i"
-	@echo "... PetriDish.s"
+	@echo "... Lab/PetriDish.o"
+	@echo "... Lab/PetriDish.i"
+	@echo "... Lab/PetriDish.s"
 	@echo "... Random/Random.o"
 	@echo "... Random/Random.i"
 	@echo "... Random/Random.s"

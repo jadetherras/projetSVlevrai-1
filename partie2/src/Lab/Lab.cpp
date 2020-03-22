@@ -7,24 +7,21 @@
 using namespace std;
 
 Lab::Lab()
-{
-    Vec2d position(getApp().getCentre());
-    boite->setPosition(position);
-    double rayon (0.95*getApp().getLabSize().x);
-    boite->setRadius(rayon);
-}
+   : boite(getApp().getCentre(),0.95*getApp().getLabSize().x/2)
+    {}
+
 
 void Lab::reset()
 {
-    boite->reset();
+    boite.reset();
 }
 
  void Lab::drawOn (sf::RenderTarget& targetWindow)
 {
-    boite->drawOn(targetWindow);
+    boite.drawOn(targetWindow);
 }
 
 void Lab::update (sf::Time dt)
 {
-   boite->update(dt);
+   boite.update(dt);
 }

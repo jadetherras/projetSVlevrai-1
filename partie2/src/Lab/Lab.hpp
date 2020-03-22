@@ -12,5 +12,5 @@ class Lab
     void drawOn (sf::RenderTarget& targetWindow);
 
     private :
-    PetriDish *boite;
+    PetriDish boite;
 };

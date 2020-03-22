@@ -260,10 +260,10 @@
 		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp">
 			<Option target="nutrimentTest"/>
 		</Unit>
-		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.cpp">
+		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.cpp">
 			<Option target="nutrimentTest"/>
 		</Unit>
-		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp">
+		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp">
 			<Option target="nutrimentTest"/>
 		</Unit>
 		<Unit filename="/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Random/Random.cpp">

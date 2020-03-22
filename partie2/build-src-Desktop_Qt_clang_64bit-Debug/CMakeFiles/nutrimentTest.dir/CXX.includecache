@@ -98,17 +98,17 @@ PetriDish.hpp
 iostream
 -
 
-/Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp
+/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp
 SFML/Graphics.hpp
 -
 Lab/Nutriment.hpp
-/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp
+/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab/Nutriment.hpp
 Lab/Bacterium.hpp
-/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Bacterium.hpp
+/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab/Bacterium.hpp
 Lab/CircularBody.hpp
-/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/CircularBody.hpp
+/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab/CircularBody.hpp
 Utility/Vec2d.hpp
-/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Vec2d.hpp
+/Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Utility/Vec2d.hpp
 iostream
 -
 vector

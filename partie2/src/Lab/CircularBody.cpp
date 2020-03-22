@@ -16,10 +16,11 @@ CircularBody::CircularBody(const CircularBody& other)
 const Vec2d& CircularBody::getPosition() const {
     return position;
 }
-void CircularBody::setPosition(const Vec2d& position) {
+void CircularBody::setPosition(const Vec2d& position)
+{
     this->position=position;
-
 }
+
 double CircularBody::getRadius() const{
     return rayon;
 }

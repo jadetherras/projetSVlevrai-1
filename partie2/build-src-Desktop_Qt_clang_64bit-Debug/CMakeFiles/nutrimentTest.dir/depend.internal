@@ -12,7 +12,7 @@ CMakeFiles/nutrimentTest.dir/Application.cpp.o
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/CircularBody.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp
- /Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp
+ /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Constants.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Types.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Utility.hpp
@@ -309,7 +309,7 @@ CMakeFiles/nutrimentTest.dir/Lab/Lab.cpp.o
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab.cpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp
- /Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp
+ /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Constants.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Vec2d.hpp
  /usr/local/include/SFML/Config.hpp
@@ -388,14 +388,14 @@ CMakeFiles/nutrimentTest.dir/Lab/Lab.cpp.o
  /usr/local/include/SFML/Window/WindowStyle.hpp
 CMakeFiles/nutrimentTest.dir/Lab/Nutriment.cpp.o
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.cpp
-CMakeFiles/nutrimentTest.dir/PetriDish.cpp.o
+CMakeFiles/nutrimentTest.dir/Lab/PetriDish.cpp.o
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/JSON/JSON.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/JSON/JSONImpl.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Bacterium.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/CircularBody.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp
- /Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.cpp
- /Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp
+ /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.cpp
+ /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Constants.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Types.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Utility.hpp
@@ -521,7 +521,7 @@ CMakeFiles/nutrimentTest.dir/Tests/GraphicalTests/NutrimentTest.cpp.o
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/CircularBody.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Lab.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/Nutriment.hpp
- /Users/mathieureibel/Documents/Programmation/prog/partie2/src/PetriDish.hpp
+ /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Lab/PetriDish.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Tests/GraphicalTests/NutrimentTest.cpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Constants.hpp
  /Users/mathieureibel/Documents/Programmation/prog/partie2/src/Utility/Vec2d.hpp
